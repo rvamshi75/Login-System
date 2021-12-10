@@ -1,0 +1,42 @@
+ .col-1{
+   width: 20%;
+   height: 40vh;
+   top:50%;
+   left:50%;
+
+   background-color: lightgray;
+   position: absolute;
+
+   transform: translate(-100%,-50%);
+	 box-sizing: border-box;
+   padding: 30px 30px;
+
+
+}
+
+.col-2{
+  width: 20%;
+  height: 40vh;
+  top:50%;
+  left:50%;
+
+  background-color: lightblue;
+  position: absolute;
+
+  transform: translate(10%,-50%);
+  box-sizing: border-box;
+  padding: 30px 30px;
+
+
+}
+
+
+input{
+  width: 200px;
+  height: 20px;
+}
+
+h3{
+  margin-left: 30px;
+  color: red;
+}
